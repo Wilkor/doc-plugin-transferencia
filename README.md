@@ -9,8 +9,18 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  - Procure por **Transferência** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
  - Após a instalação da extensão, siga os passos abaixo;
  
- # Como configurar?
+ # Como configurar o builder?
  
+  - Primeira etapa é criar um bloco chamado **Pre-Atendimento** no builder dos bots de atendimentos conforme tela abaixo:
+
+  ![image](https://user-images.githubusercontent.com/34819624/209582957-462dabc3-98fd-4a6e-b0f3-7d745fbfca81.png)
+ 
+  Suas condições de saida tem que ficar dessa forma:
+  
+  ![image](https://user-images.githubusercontent.com/34819624/209583004-ee1ff9e7-947b-47fb-a880-61147b9fd8f2.png)
+
+# Como configurar a Extensão?
+
   - Selecione os chats de atendimento que você deseja realizar as transferencias, conforme tela abaixo:
   
   ![image](https://user-images.githubusercontent.com/34819624/209581809-90ef8af3-d511-4e76-8446-776e1b9dd641.png)
@@ -50,6 +60,9 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   Em **Identificação do usuário**, você vai copiar o id do cliente e copiar nesse campo, conforme tela abaixo:
   
   ![image](https://user-images.githubusercontent.com/34819624/209582304-9333d470-47cb-4189-8538-9a6ee37c42d3.png)
+  
+  ![image](https://user-images.githubusercontent.com/34819624/209583375-d4ec8498-14c0-4e42-a5bf-0738286ca2d5.png)
+
 
  
   Em **Origem**, você precisa selecionar o bot que esta em atendimento, veja:
@@ -66,14 +79,10 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   ![image](https://user-images.githubusercontent.com/34819624/209582643-7bfff6d8-5c17-4c7d-9d9f-d62b3e1c804f.png)
 
  
-  No campo **Bloco**, você vai selecionar o bloco que foi criado em seu fluxo, e o mesmo será direcionado para o atendimento humano, conforme tela abaixo:
+  No campo **Bloco**, você vai selecionar o bloco que foi criado em seu fluxo, e o mesmo será redirecionado para o atendimento humano, conforme tela abaixo:
   
-  ![image](https://user-images.githubusercontent.com/34819624/209582957-462dabc3-98fd-4a6e-b0f3-7d745fbfca81.png)
+  ![image](https://user-images.githubusercontent.com/34819624/209583597-3dd4a792-a98d-493f-8b25-4653959255f0.png)
  
-  Suas condições de saida ficaram dessa forma:
-  
-  ![image](https://user-images.githubusercontent.com/34819624/209583004-ee1ff9e7-947b-47fb-a880-61147b9fd8f2.png)
-
   Em **Equipes**, você vai selecionar a equipe para onde o ticket será transferido.
   
   ![image](https://user-images.githubusercontent.com/34819624/209583152-2219281b-3903-4fd7-b335-5501d66712ce.png)
