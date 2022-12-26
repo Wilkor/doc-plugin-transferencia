@@ -11,18 +11,17 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  
  # Como configurar?
  
-  - Selecione o chatbot responsável que irá receber o template
-  - Selecion qual bloco o cliente vai cair quando ele responder a mensagem que foi enviada
-  - Clicar em Ativar Extensão, conforme imagem abaixo:
-
-![image](https://user-images.githubusercontent.com/34819624/209019926-47084adc-83d8-42e0-982a-91409993001c.png)
-
+  - Selecione os chats de atendimento que você deseja realizar as transferencias, conforme tela abaixo:
   
+  ![image](https://user-images.githubusercontent.com/34819624/209581809-90ef8af3-d511-4e76-8446-776e1b9dd641.png)
+
+  - Feito isso, clique em Ativar Extensão, conforme imagem:
+
+![image](https://user-images.githubusercontent.com/34819624/209581856-ee879488-a899-4483-a495-233fd5950d52.png)
+
   - Depois que ativado, click no link abaixo para ativar a extensão no chrome de cada atendente.
   
-![image](https://user-images.githubusercontent.com/34819624/209019961-b8f04613-e659-4aad-824d-fc7816af3e9a.png)
-
-
+![image](https://user-images.githubusercontent.com/34819624/209581895-c177be72-a67a-43de-816d-3bf4a5ff639a.png)
    
    Em seguida, usar no chrome:
    
@@ -35,44 +34,53 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
   Ao clicar no icone em seu blipDesk, a tela abaixo irá aparecer na lateral direita da tela.
   
-  ![image](https://user-images.githubusercontent.com/34819624/208989661-fd7d7f98-95f5-499e-86c4-f0f829e8cbd5.png)
-
-
-  Clicando no menu Agenda, você terá um menu com as opções:
-  
-   - Audiência
-   - Dados do Template
-   - Dados do Envio
-   - Meus agendamentos
-  
-  
-  Em **Audiência**, você poderá digitar o nome do cliente, telefone e se clicar no botão **Adicionar extras** você também pode colocar uma informação adicional do contato.
-  
-  Em **Dados do template**, você poderá adicionar o template que deseja enviar ao cliente.
-  
-  Em **Dados do envio**, você pode fazer a conferência de todas as informações que digitou anteriormente além de poder optar em enviar a mensagem agora ou agenda-la para um contato futuro.
-  
-
-  Por fim, em **Meus agendamentos** você pode consultar todos os contatos que estão agendado, ou seja, qual vai ser a data que eles receberam uma mensagem ativa e cairão para você no seu blipDesk.
-  
- ![image](https://user-images.githubusercontent.com/34819624/208988580-c29c8eea-ab33-42f5-9bc5-085efe8f51e4.png)
-
-  
-  ![image](https://user-images.githubusercontent.com/34819624/208988448-84e779ff-cada-428d-a0c3-8f88914129cc.png)
-  
-  ![image](https://user-images.githubusercontent.com/34819624/208988674-c05ea151-3186-4941-b690-c33e3ec63518.png)
-  
-  ![image](https://user-images.githubusercontent.com/34819624/208988835-a68595e5-b8f9-4948-ac4d-ee2387e88461.png)
-  
-  ![image](https://user-images.githubusercontent.com/34819624/208989224-5833ee15-d538-45b0-b738-1cd3949a4fdb.png)
+ ![image](https://user-images.githubusercontent.com/34819624/209581985-12cb49e2-29f6-4bb9-93d8-6f5e3c9fb24e.png)
 
 
 
-
-
-
+  Clicando no menu Transeferência, você terá alguns campos:
+  
+  - Identificação do usuário
+  - Origem
+  - Destino
+  - Bloco
+  - Equipes
+  
+  
+  Em **Identificação do usuário**, você vai copiar o id do cliente e copiar nesse campo, conforme tela abaixo:
+  
+  ![image](https://user-images.githubusercontent.com/34819624/209582304-9333d470-47cb-4189-8538-9a6ee37c42d3.png)
 
  
+  Em **Origem**, você precisa selecionar o bot que esta em atendimento, veja:
+  
+  ![image](https://user-images.githubusercontent.com/34819624/209582365-473c3dd0-47da-440a-b179-85b953d09a48.png)
+
+  Na sua extensão, em origem, você deve selecionar o mesmo bot, ficando assim:
+  
+  ![image](https://user-images.githubusercontent.com/34819624/209582454-a023f198-27ff-4369-b164-8b527fd517f6.png)
+
+  
+  Em **Destino**, nesse item, você deve selecionar o bot de atendimento destino, conforme imagem abaixo:
+  
+  ![image](https://user-images.githubusercontent.com/34819624/209582643-7bfff6d8-5c17-4c7d-9d9f-d62b3e1c804f.png)
+
+ 
+  No campo **Bloco**, você vai selecionar o bloco que foi criado em seu fluxo, e o mesmo será direcionado para o atendimento humano, conforme tela abaixo:
+  
+  ![image](https://user-images.githubusercontent.com/34819624/209582957-462dabc3-98fd-4a6e-b0f3-7d745fbfca81.png)
+ 
+  Suas condições de saida ficaram dessa forma:
+  
+  ![image](https://user-images.githubusercontent.com/34819624/209583004-ee1ff9e7-947b-47fb-a880-61147b9fd8f2.png)
+
+  Em **Equipes**, você vai selecionar a equipe para onde o ticket será transferido.
+  
+  ![image](https://user-images.githubusercontent.com/34819624/209583152-2219281b-3903-4fd7-b335-5501d66712ce.png)
+
+  Após isso, clicar em **Transferir**.
+  
+  
   Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
  
   Email: contato@pontoparse.net
