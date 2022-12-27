@@ -1,21 +1,21 @@
 ![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
 
-# Como utilizar a extensão Transferência!
+# Como utilizar a extensão Transferência de tickets!
 
 Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua extensão:
 
  - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões;
- - Procure por **Transferência** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
+ - Procure por **Transferência de tickets** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
  - Após a instalação da extensão, siga os passos abaixo;
  
  # Como configurar o builder?
  
-  - Nessa primeira etapa, você precisar criar um bloco chamado **Pre-Atendimento** no builder dos bots de atendimentos conforme tela abaixo:
+  - Nessa primeira etapa, você precisar criar um bloco chamado **Pre-Atendimento** (pode copiar do jeito que esta aqui) no builder dos bots de atendimentos conforme tela abaixo:
 
   ![image](https://user-images.githubusercontent.com/34819624/209582957-462dabc3-98fd-4a6e-b0f3-7d745fbfca81.png)
  
-  Suas condições de saida tem que ficar dessa forma:
+  Suas condições de saida precisam  ficar dessa forma:
   
   ![image](https://user-images.githubusercontent.com/34819624/209583004-ee1ff9e7-947b-47fb-a880-61147b9fd8f2.png)
 
