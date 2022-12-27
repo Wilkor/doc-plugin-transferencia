@@ -89,6 +89,10 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
   Após isso, clicar em **Transferir**.
   
+  Video de demostração:
+  
+  https://vimeo.com/manage/videos/784653883/e14e1b70b5
+  
   
   Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
  
