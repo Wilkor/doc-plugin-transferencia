@@ -14,6 +14,11 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   - Nessa primeira etapa, você precisar criar um bloco chamado **Pre-Transbordo** (pode copiar do jeito que esta aqui) no builder dos bots de atendimentos conforme tela abaixo:
 
  ![image](https://user-images.githubusercontent.com/34819624/213001497-a1d9a43f-ffc8-4b99-803e-4834d2482067.png)
+ 
+ Importante, precisa ter a entrada do usuário:
+ 
+ ![image](https://user-images.githubusercontent.com/34819624/213004419-f174fd74-d64b-486a-8679-f35f037524a5.png)
+
 
   Suas condições de saida precisam  ficar dessa forma:
   
