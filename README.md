@@ -20,13 +20,13 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  ![image](https://user-images.githubusercontent.com/34819624/213004419-f174fd74-d64b-486a-8679-f35f037524a5.png)
 
 
-  Suas condições de saida precisam  ficar dessa forma:
+  Suas condições de saída precisam  ficar dessa forma:
   
   ![image](https://user-images.githubusercontent.com/34819624/209583004-ee1ff9e7-947b-47fb-a880-61147b9fd8f2.png)
 
 # Como configurar a Extensão?
 
-  - Selecione os chats de atendimento que você deseja realizar as transferencias, conforme tela abaixo:
+  - Selecione os chats de atendimento que você deseja realizar as transferências, conforme tela abaixo:
   
   ![image](https://user-images.githubusercontent.com/34819624/209581809-90ef8af3-d511-4e76-8446-776e1b9dd641.png)
 
@@ -34,7 +34,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
 ![image](https://user-images.githubusercontent.com/34819624/209581856-ee879488-a899-4483-a495-233fd5950d52.png)
 
-  - Depois que ativado, click no link abaixo para ativar a extensão no chrome de cada atendente.
+  - Depois que ativado, clique no link abaixo para ativar a extensão no chrome de cada atendente.
   
 ![image](https://user-images.githubusercontent.com/34819624/209581895-c177be72-a67a-43de-816d-3bf4a5ff639a.png)
    
@@ -53,7 +53,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
 
 
-  Clicando no menu Transeferência, você terá alguns campos:
+  Clicando no menu Transferência, você terá alguns campos:
   
   - Identificação do usuário
   - Origem
@@ -70,7 +70,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
 
  
-  Em **Origem**, você precisa selecionar o bot que esta em atendimento, veja:
+  Em **Origem**, você precisa selecionar o bot que está em atendimento, veja:
   
   ![image](https://user-images.githubusercontent.com/34819624/209582365-473c3dd0-47da-440a-b179-85b953d09a48.png)
 
@@ -94,11 +94,11 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
   Após isso, clicar em **Transferir**.
   
-  Video de demostração:
+  Video de demostração: :point_down:
   
   https://vimeo.com/manage/videos/784653883/e14e1b70b5
   
   
-  Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
+  Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
  
-  Email: contato@pontoparse.net
+  E-mail: contato@pontoparse.net
