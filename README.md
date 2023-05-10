@@ -94,9 +94,21 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
   Após isso, clicar em **Transferir**.
   
+  # Transferindo para um bloco especifico da jornada
+  
+   Seguindo o mesmo raciocínio da transferencia de tickets, na tela abaixo, basta adicionar o id do usuário, e selecionar o bot e bloco que deseja
+   
+   ![image](https://github.com/Wilkor/doc-plugin-transferencia/assets/34819624/edf551f8-7582-4bec-b16d-2be50f5d7b39)
+
+   após isso, clique em transferir
+   
+  
   Video de demostração: :point_down:
   
   https://vimeo.com/manage/videos/784653883/e14e1b70b5
+  
+   Video com demonstração de transferência para um bloco :point_down:
+  https://youtu.be/-y31Fl79gdk
   
   
   Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
