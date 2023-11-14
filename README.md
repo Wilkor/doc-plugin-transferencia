@@ -93,6 +93,8 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   ![image](https://user-images.githubusercontent.com/34819624/209583152-2219281b-3903-4fd7-b335-5501d66712ce.png)
 
   Após isso, clicar em **Transferir**.
+
+  Em seguida o cliente vai receber uma mensagem informando que ele foi transferido, após o cliente mandar qualquer mensagem o mesmo será direcionado para o atendimento correto. 
   
   # Transferindo para um bloco especifico da jornada
   
