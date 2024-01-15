@@ -1,4 +1,4 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
+![WhatsApp Image 2024-01-15 at 10 46 51](https://github.com/Wilkor/doc-plugin-transferencia/assets/34819624/41bdf480-8eca-4ea3-9a71-eba1539c0315)
 
 
 # Como utilizar a extensão Transferência de tickets!
